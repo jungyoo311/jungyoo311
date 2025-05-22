@@ -1,16 +1,27 @@
 <h1 align="center">Hi 👋, I'm Jeongmoo</h1>
-<h3 align="center">A Recent Graduates from University of California, Irvine. I am passionate about AI, autonomous systems, and solving real-world challenges with code</h3>
+<h3 align="center">A Recent Graduates from University of California, Irvine. CSE ’25 </h3>
+<h3 align="center">Passionate about AI, autonomous systems & real-world ML solutions with code</h3>
 
-- 💬 Ask me about **Autonomous Systems, Perception,SLAM, Backend**
+- 💬 Ask me about **Autonomous Systems, Perception, SLAM, Backend**
 
 - 📫 How to reach me **jeongmy@uci.edu**
 
-- ⚡ Fun fact **I love to learn new things. Let's connect !**
-
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jung-yoo-cse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/jung-yoo-cse" height="30" width="40" /></a>
+
+<p align="center">
+  <a href="https://linkedin.com/in/jung-yoo-cse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/jung-yoo-cse" height="30" width="40" /></a>
+  <br><br>
+  <a href="https://linkedin.com/in/jeongmoo"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat" /></a>
 </p>
+
+## 🚀 Featured Projects
+- **Truck Safety on Raspberry Pi**  
+  Real-time Forward Collision & Lane Departure Warning using Hailo 8L & ROS2. [View Code](https://github.com/Jeongmoo/truck-safety)
+- **PFAS Contamination ML Pipeline**  
+  Cleaned & modeled U.S. water contamination data with scikit-learn. [Read Paper](#)
+
+
+
 
 <h3 align="left">Languages:</h3>
 <p align="left">
