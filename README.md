@@ -18,7 +18,7 @@
 - **Truck Safety on Raspberry Pi**  
   Real-time Forward Collision & Lane Departure Warning using Hailo 8L & ROS2. [View Code](https://github.com/jungyoo311/Truck-Safety)
 - **PFAS Contamination ML Pipeline**  
-  Cleaned & modeled U.S. water contamination data with scikit-learn. [Read Paper](#)
+  Cleaned & modeled U.S. water contamination data with scikit-learn. [Read Paper](https://pubs.acs.org/doi/10.1021/acsestwater.3c00134)
 
 
 
