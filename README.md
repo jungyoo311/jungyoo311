@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jeongmoo</h1>
 <h3 align="center">A Recent Graduates from University of California, Irvine. CSE ’25 </h3>
-<h3 align="center">Passionate about AI, autonomous systems & real-world ML solutions with code</h3>
+<h3 align="center">Passionate about autonomous systems (perception) & solving real-world ML problems with code</h3>
 
 - 💬 Ask me about **Autonomous Systems, Perception, SLAM, Backend**
 
