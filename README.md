@@ -16,7 +16,7 @@
 
 ## 🚀 Featured Projects
 - **Truck Safety on Raspberry Pi**  
-  Real-time Forward Collision & Lane Departure Warning using Hailo 8L & ROS2. [View Code](https://github.com/Jeongmoo/truck-safety)
+  Real-time Forward Collision & Lane Departure Warning using Hailo 8L & ROS2. [View Code]([https://github.com/Jeongmoo/truck-safety](https://github.com/jungyoo311/Truck-Safety))
 - **PFAS Contamination ML Pipeline**  
   Cleaned & modeled U.S. water contamination data with scikit-learn. [Read Paper](#)
 
