@@ -10,7 +10,7 @@
     LinkedIn: <a href="https://linkedin.com/in/jung-yoo-cse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/jung-yoo-cse" height="30" width="40" /></a>
 </p>
 
-## 🚀 Featured Projects
+## 🚀 Portfolio
 | Project | Description | Link |
 |---------|-------------|------|
 | **Learning Based Visual-Inertial-Odometry (VIO)** | Comparative analysis of modern SLAM approaches with comprehensive performance evaluation | [View Project](https://github.com/jungyoo311/hands_on_kitti/tree/develop) |
