@@ -1,17 +1,13 @@
 <h1 align="center">Hi 👋, I'm Jeongmoo</h1>
-<h3 align="center">A Recent Graduates from University of California, Irvine. CSE ’25 </h3>
-<h3 align="center">Passionate about autonomous systems (perception) & solving real-world ML problems with code</h3>
+<h3 align="center">Passionate about solving real-world ML problems with code</h3>
+<h4 align="center">Topics: Autonomous Systems • Perception • SLAM</h4>
+<h3 align="center">C++ & Python Developer | Computer Vision & Robotics</h3>
 
-- 💬 Ask me about **Autonomous Systems, Robots, Cars, Perception, SLAM, Backend**
 
-- 📫 How to reach me **jeongmy@uci.edu**
-
-<h3 align="left">Connect with me:</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/jung-yoo-cse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/jung-yoo-cse" height="30" width="40" /></a>
-  <br><br>
-  <a href="https://linkedin.com/in/jeongmoo"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat" /></a>
+  Email: <a href="mailto:jeongmy@uci.edu"><strong>jeongmy@uci.edu</strong></a> | 
+    LinkedIn: <a href="https://linkedin.com/in/jung-yoo-cse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/jung-yoo-cse" height="30" width="40" /></a>
 </p>
 
 ## 🚀 Featured Projects
