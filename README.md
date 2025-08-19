@@ -11,12 +11,11 @@
 </p>
 
 ## 🚀 Featured Projects
-- **Truck Safety on Raspberry Pi**  
-  Real-time Forward Collision & Lane Departure Warning using Hailo 8L & ROS2. [View Code](https://github.com/jungyoo311/Truck-Safety)
-- **PFAS Contamination ML Pipeline**  
-  Cleaned & modeled U.S. water contamination data with scikit-learn. [Read Paper](https://pubs.acs.org/doi/10.1021/acsestwater.3c00134)
-
-
+| Project | Description | Link |
+|---------|-------------|------|
+| **Learning Based Visual-Inertial-Odometry (VIO)** | Comparative analysis of modern SLAM approaches with comprehensive performance evaluation | [View Project](https://github.com/jungyoo311/hands_on_kitti/tree/develop) |
+| **Stereo Vision Depth Estimation** | Depth map generation from KITTI stereo images using StereoSGBM and ROS2 | [View Project](https://github.com/jungyoo311/hands_on_kitti/tree/develop) |
+| **Collision & Lane Departure Warning System** | Computer vision-based collision warning and lane departure system | [View Project](https://github.com/jungyoo311/Truck-Safety) |
 
 
 <h3 align="left">Languages:</h3>
