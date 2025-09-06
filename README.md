@@ -13,7 +13,7 @@
 ## 🚀 Portfolio
 | Project | Description | Link |
 |---------|-------------|------|
-| **Learning Based Visual-Inertial-Odometry (VIO)** | Comparative analysis of modern SLAM approaches with comprehensive performance evaluation | [View Project](https://github.com/jungyoo311/hands_on_kitti/tree/develop) |
+| **Learning Based Visual-Inertial-Odometry (VIO)** | Comparative analysis of modern SLAM approaches with comprehensive performance evaluation | [View Project](https://github.com/jungyoo311/Visual-Inertial-Odometry) |
 | **Stereo Vision Depth Estimation** | Depth map generation from KITTI stereo images using StereoSGBM and ROS2 | [View Project](https://github.com/jungyoo311/hands_on_kitti/tree/develop) |
 | **Inverse Perspective Mapping (IPM) system** | Bird's-eye view transformation from road camera feeds using computer vision and geometric transformations. | [View Project](https://github.com/jungyoo311/Inverse_Perspective_Mapping) |
 | **Collision & Lane Departure Warning System** | Computer vision-based collision warning and lane departure system | [View Project](https://github.com/jungyoo311/truck_safety) | 
